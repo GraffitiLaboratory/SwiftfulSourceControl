@@ -6,6 +6,15 @@
 //
 
 /*
+ Clone = Copying the repo locally
+ Commit = Save ("checkpoint") on our current branch
+ Staging = Prepare changes for a commit
+ Stash = Save changes for later
+ Push = Send local commits to remote repo
+ Pull = Fetch remote commits to local repo
+ 
+=====================================================================================
+ 
  COMMIT MESSAGES
  
  팀에 합류하면 그들만의 규칙이 있다.
@@ -25,7 +34,6 @@
  
  MUNDANE TASKS: 매일 반복되고 별 다를 것 없는 평범한 일상과 관련된 작업. 문서 재정렬과 같은 일상적인 작업.
  [Clean] Description of changes
- 
  
  */
 
