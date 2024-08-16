@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6259513A2C6A37B5000717BF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 625951392C6A37B5000717BF /* HomeView.swift */; };
+		625E20AA2C6F69090017E09C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 625E20A92C6F69090017E09C /* SettingsView.swift */; };
 		627680F52C69E59600C7F62F /* SwiftfulSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627680F42C69E59600C7F62F /* SwiftfulSourceControlApp.swift */; };
 		627680F72C69E59600C7F62F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627680F62C69E59600C7F62F /* ContentView.swift */; };
 		627680F92C69E59800C7F62F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 627680F82C69E59800C7F62F /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		625951392C6A37B5000717BF /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		625E20A92C6F69090017E09C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		627680F12C69E59600C7F62F /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		627680F42C69E59600C7F62F /* SwiftfulSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlApp.swift; sourceTree = "<group>"; };
 		627680F62C69E59600C7F62F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				627680F62C69E59600C7F62F /* ContentView.swift */,
 				627680F82C69E59800C7F62F /* Assets.xcassets */,
 				625951392C6A37B5000717BF /* HomeView.swift */,
+				625E20A92C6F69090017E09C /* SettingsView.swift */,
 				627680FA2C69E59800C7F62F /* SwiftfulSourceControl.entitlements */,
 				627680FB2C69E59800C7F62F /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6259513A2C6A37B5000717BF /* HomeView.swift in Sources */,
+				625E20AA2C6F69090017E09C /* SettingsView.swift in Sources */,
 				627680F72C69E59600C7F62F /* ContentView.swift in Sources */,
 				627680F52C69E59600C7F62F /* SwiftfulSourceControlApp.swift in Sources */,
 			);
