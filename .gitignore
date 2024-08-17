@@ -1,0 +1,115 @@
+# Xcode
+.DS_Store
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData
+.idea/
+*.xcuserstate
+
+# Swift Package Manager
+# Add this if you have a Swift Package Manager dependency manager.
+.build/
+.swiftpm/xcode/package.xcworkspace/
+Package.resolved
+
+# CocoaPods
+# Uncomment if you are using CocoaPods.
+# Pods/
+
+# Carthage
+# Uncomment if you are using Carthage.
+# Carthage/Build/
+# Carthage/Checkouts/
+
+# Fastlane
+# Uncomment if you are using fastlane.
+# fastlane/report.xml
+# fastlane/Preview.html
+# fastlane/screenshots
+# fastlane/test_output
+# fastlane/readme.md
+# fastlane/README.md
+
+# Accio dependency management
+# Uncomment if you are using Accio.
+# .accio/
+
+# Flutter specific
+# Uncomment if you are using Flutter.
+# .flutter-plugins
+# .flutter-plugins-dependencies
+# .flutter-versions
+# .flutter-settings
+# .packages
+# .dart_tool/
+# Generated.xcconfig
+# flutter_export_environment.sh
+
+# SPM
+# Add this if you have a Swift Package Manager dependency manager.
+# Packages/
+# .swiftpm/
+
+# Xcode Patch files
+*.xcscmblueprint
+
+# Local Xcode project settings
+*.xcodeproj/*.pbxproj
+*.xcworkspace/contents.xcworkspacedata
+
+# Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playground files
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI previews
+.swiftpm/xcode/previews/
+
+# Other
+*.swp
+*~.nib
+*.aux
+*.bbl
+*.blg
+*.brf
+*.cb
+*.dmg
+*.eps
+*.exe
+*.fls
+*.ind
+*.idx
+*.kac
+*.lof
+*.log
+*.lot
+*.mg
+*.out
+*.pdf
+*.ps
+*.synctex.gz
+*.toc
+*.ttf
+*.virtual_env
+*.xcappdata
+*.xcworkspace
+
+# App Code
+.idea/
+
+# Mac .DS_Store Files
+.DS_Store
